@@ -1,0 +1,15 @@
+B01
+Giao trinh tin hoc
+Nguyen Ngoc Tu
+20000
+3
+B02
+Dai so dai cuong
+Tran Van Tuan
+50000
+5
+B03
+Lap trinh C
+Quach Ngoc Tuan
+60000
+10

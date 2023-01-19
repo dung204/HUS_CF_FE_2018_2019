@@ -1,0 +1,7 @@
+Ma KH: C01
+Ten KH: Nguyen Van A
+Danh sach nhung quyen sach da mua:
+1. B01, Giao trinh tin hoc, Nguyen Ngoc Tu, 20000 (vnd), 3,0%
+2. B02, Dai so dai cuong, Tran Van Tuan, 50000 (vnd), 5,0%
+3. B03, Lap trinh C, Quach Ngoc Tuan, 60000 (vnd), 10,0%
+Tong tien: 120.900 (vnd)
